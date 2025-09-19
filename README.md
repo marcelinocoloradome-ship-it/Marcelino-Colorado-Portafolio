@@ -23,6 +23,6 @@ He participado como conferencista en instituciones de prestigio:
 - **Bolivia**: Univ. San Francisco Xavier de Chuquisaca.  
 - **Panamá**: Univ. Latina de Panamá.  
 🎥 Entrevistas y Medios
-https://www.youtube.com/watch?v=DR4DfrnfpMQ&t=68s
+[Entrevista en Canal X sobre Derecho Penal y Procesos de Paz] https://www.youtube.com/watch?v=DR4DfrnfpMQ&t=68s
 📂 Contacto
 - 📧 Correo: marcelino.coloradome@gmail.com 
