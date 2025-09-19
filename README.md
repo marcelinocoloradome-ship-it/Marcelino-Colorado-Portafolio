@@ -23,10 +23,8 @@ He participado como conferencista en instituciones de prestigio:
 - **Bolivia**: Univ. San Francisco Xavier de Chuquisaca.  
 - **Panamá**: Univ. Latina de Panamá.  
 🎥 Entrevistas y Medios
--## 🎥 Entrevistas y Medios
-- [Entrevista en Canal X sobre Derecho Penal y Procesos de Paz](https://www.youtube.com/watch?v=DR4DfrnpMQ&t=68s)
-- [Entrevista en Patricio Mery](LINK_ENTREVISTA_PATRICIO_MERY)
-- [Entrevista en Colorado & Asociados sobre la prisión domiciliaria en Colombia](LINK_ENTREVISTA_COLOMBIA)
+- [Entrevista en Patricio Mery](https://www.youtube.com/live/DR4DfrnfpMQ?si=Q3KZr9bgvLQ6RNyP)
+- [Entrevista en Colorado & Asociados sobre la prisión domiciliaria en Colombia](https://youtu.be/f5qmjhRaD1Q?si=hsrd327Fny5sOEbo)
 
   
 📂 Contacto
