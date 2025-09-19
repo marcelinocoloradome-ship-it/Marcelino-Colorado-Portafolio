@@ -13,7 +13,11 @@ Puedes ver y descargar mi CV completo aquí:
 📚 Publicaciones Destacadas
 - *Derecho, Justicia y Paz Mundial 2030. Mecanismos de Resolución de Controversias* (Tirant Blanch, México, 2024).  
 - *Evolución normativa en materia penal y procesal penal en varias legislaciones* (CEP, Quito, 2018).  
-- *Democracia en Conflicto Armado* (Revista Jurídica Primera Instancia, Puebla, 2018).  
+- *## 📚 Publicaciones Destacadas  
+- *Derecho, Justicia y Paz Mundial 2030. Mecanismos de Resolución de Controversias* (Tirant Blanch, México, 2024).  
+- *Evolución normativa en materia penal y procesal penal en varias legislaciones* (CEP, Quito, 2018).  
+- [*Democracia en Conflicto Armado*](https://www.primerainstancia.com.mx/revista-primera-instancia/attachment/democracia-en-medio-del-conflicto-armado-marcelino-ovidio-colorado-mendoza/) (Revista Jurídica Primera Instancia, Puebla, 2018).  
+ 
 🎤 Conferencias Internacionales
 He participado como conferencista en instituciones de prestigio:  
 - **México**: UNAM, Escuela del Poder Judicial de Guanajuato, UAGro – Acapulco.  
