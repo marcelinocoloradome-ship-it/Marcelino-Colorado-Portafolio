@@ -10,11 +10,11 @@ Me caracterizo por un enfoque **estratégico, ético y comprometido** con la def
 📑 Curriculum Vitae
 Puedes ver y descargar mi CV completo aquí:  
 [📄 Curriculum Vitae](./Curriculum%20vitae%20MARCELINO%20OVIDIO%20COLORADO%20MENDOZA.pdf)
+
 📚 Publicaciones Destacadas
 - *Derecho, Justicia y Paz Mundial 2030. Mecanismos de Resolución de Controversias* (Tirant Blanch, México, 2024).  
 - *Evolución normativa en materia penal y procesal penal en varias legislaciones* (CEP, Quito, 2018).  
-- *## 📚 Publicaciones Destacadas  
-- *Derecho, Justicia y Paz Mundial 2030. Mecanismos de Resolución de Controversias* (Tirant Blanch, México, 2024).  
+ - *Derecho, Justicia y Paz Mundial 2030. Mecanismos de Resolución de Controversias* (Tirant Blanch, México, 2024).  
 - *Evolución normativa en materia penal y procesal penal en varias legislaciones* (CEP, Quito, 2018).  
 - [*Democracia en Conflicto Armado*](https://www.primerainstancia.com.mx/revista-primera-instancia/attachment/democracia-en-medio-del-conflicto-armado-marcelino-ovidio-colorado-mendoza/) (Revista Jurídica Primera Instancia, Puebla, 2018).  
  
@@ -29,7 +29,10 @@ He participado como conferencista en instituciones de prestigio:
 🎥 Entrevistas y Medios
 - [Entrevista en Patricio Mery](https://www.youtube.com/live/DR4DfrnfpMQ?si=Q3KZr9bgvLQ6RNyP)
 - [Entrevista en Colorado & Asociados sobre la prisión domiciliaria en Colombia](https://youtu.be/f5qmjhRaD1Q?si=hsrd327Fny5sOEbo)
-
   
 📂 Contacto
-- 📧 Correo: marcelino.coloradome@gmail.com 
+- 📧 Correo: marcelino.coloradome@gmail.com
+
+👀 **Visitas al portafolio:**  
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=marcelinocoloradome-ship-it.Marcelino-Colorado-Portafolio)
+
