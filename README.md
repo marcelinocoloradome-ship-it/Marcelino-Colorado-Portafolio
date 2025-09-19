@@ -24,7 +24,7 @@ He participado como conferencista en instituciones de prestigio:
 - **Panamá**: Univ. Latina de Panamá.  
 🎥 Entrevistas y Medios
 - [Entrevista en Patricio Mery](https://www.youtube.com/live/DR4DfrnfpMQ?si=UO1rBxa96jpNzSYJ)
-- [Conferencia en Colorado & Asociados][https://youtu.be/f5qmjhRaD1Q?si=rqDmDGUetHHwS3At]
-
+  - [Entrevista en Colorado & Asociados sobre la prisión domiciliaria en Colombia](https://youtu.be/f5qmjhRaD1Q?si=rqDmDGUetHHwS3At)
+  
 📂 Contacto
 - 📧 Correo: marcelino.coloradome@gmail.com 
