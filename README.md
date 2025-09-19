@@ -23,8 +23,11 @@ He participado como conferencista en instituciones de prestigio:
 - **Bolivia**: Univ. San Francisco Xavier de Chuquisaca.  
 - **Panamá**: Univ. Latina de Panamá.  
 🎥 Entrevistas y Medios
-- [Entrevista en Patricio Mery](https://www.youtube.com/live/DR4DfrnfpMQ?si=UO1rBxa96jpNzSYJ)
-  - [Entrevista en Colorado & Asociados sobre la prisión domiciliaria en Colombia](https://youtu.be/f5qmjhRaD1Q?si=rqDmDGUetHHwS3At)
+-## 🎥 Entrevistas y Medios
+- [Entrevista en Canal X sobre Derecho Penal y Procesos de Paz](https://www.youtube.com/watch?v=DR4DfrnpMQ&t=68s)
+- [Entrevista en Patricio Mery](LINK_ENTREVISTA_PATRICIO_MERY)
+- [Entrevista en Colorado & Asociados sobre la prisión domiciliaria en Colombia](LINK_ENTREVISTA_COLOMBIA)
+
   
 📂 Contacto
 - 📧 Correo: marcelino.coloradome@gmail.com 
