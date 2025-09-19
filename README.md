@@ -24,5 +24,6 @@ He participado como conferencista en instituciones de prestigio:
 - **Panamá**: Univ. Latina de Panamá.  
 🎥 Entrevistas y Medios
 [Entrevista en Canal X sobre Derecho Penal y Procesos de Paz] https://www.youtube.com/watch?v=DR4DfrnfpMQ&t=68s
+
 📂 Contacto
 - 📧 Correo: marcelino.coloradome@gmail.com 
