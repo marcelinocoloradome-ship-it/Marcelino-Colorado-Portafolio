@@ -9,7 +9,7 @@ Mi trayectoria combina el ejercicio del litigio penal, la asesoría jurídica en
 Me caracterizo por un enfoque **estratégico, ético y comprometido** con la defensa de los derechos fundamentales, la justicia restaurativa y la construcción de paz.  
 📑 Curriculum Vitae
 Puedes ver y descargar mi CV completo aquí:  
-[📄 Curriculum Vitae](./Curriculum%20vitae%20MARCELINO%20OVIDIO%20COLORADO%20MENDOZA.pdf)
+[📄 Curriculum Vitae]()
 
 📚 Publicaciones Destacadas
 - *Derecho, Justicia y Paz Mundial 2030. Mecanismos de Resolución de Controversias* (Tirant Blanch, México, 2024).  
